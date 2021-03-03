@@ -9,11 +9,10 @@ In the future, Rest Api will be used in conjunction with React JS
 Using NodeJS, Express, Mongoose
 
 ## Usage
-<code>
-  $ git clone https://github.com/E-COMMERCE-Angular-10-Express-NodeJS-MongoDB-Rest-API.gif [NAME APP] 
+
+  `$ git clone https://github.com/E-COMMERCE-Angular-10-Express-NodeJS-MongoDB-Rest-API.gif [NAME APP] 
   $ npm install
-  $ npm run start
-</code>
+  $ npm run start`
 
 ## Stack
 <p>
