@@ -10,9 +10,10 @@ Using NodeJS, Express, Mongoose
 
 ## Usage
 
-  `$ git clone https://github.com/E-COMMERCE-Angular-10-Express-NodeJS-MongoDB-Rest-API.gif [NAME APP] 
-  $ npm install
-  $ npm run start`
+`
+  $ npm install <br>
+  $ npm run start
+  `
 
 ## Stack
 <p>
