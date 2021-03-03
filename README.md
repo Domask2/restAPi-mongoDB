@@ -11,8 +11,8 @@ Using NodeJS, Express, Mongoose
 ## Usage
 
 `
-  $ npm install <br>
-  $ npm run start
+  $ npm install   
+  $ npm run start  
   `
 
 ## Stack
